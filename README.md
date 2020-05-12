@@ -6,7 +6,7 @@
 
 ## Description
 
-_A project to introduce the C# language and the .NET Core framework. The console application will take user input to display goals and descriptions. The lesson is meant to practice creating automated testing methods using MSTest and behavior driven development._
+_A project to introduce the C# language and the .NET Core framework. The console application will take user inputs to determine if a series of words are anagrams to one base word. The lesson is meant to practice creating automated testing methods using MSTest and behavior driven development._
 
 ## Setup/Installation Requirements
 
